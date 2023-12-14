@@ -1,0 +1,1 @@
+A simple web game built with HTML, CSS, and JavaScript. Users click on Rock, Paper, or Scissors to play against the computer. The winner is determined by the classic game rules. Scores are tracked, providing a quick and enjoyable gaming experience
